@@ -1,0 +1,6 @@
+{
+  "name": "Ôn Thi CNTT Cơ Bản",
+  "description": "Chương trình ôn thi trắc nghiệm Chứng chỉ ứng dụng Công nghệ thông tin cơ bản với thi thử chuẩn 60 câu 30 phút, chế độ ôn luyện tức thì, tra cứu phím tắt và công thức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
